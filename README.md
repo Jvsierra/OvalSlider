@@ -6,4 +6,4 @@ Oval Slider in Java, using java.awt and javax.swing.
 
 Preview:
 
-http://imgur.com/OmWXAq2
+[IMG]http://i.imgur.com/OmWXAq2.gif[/IMG]
